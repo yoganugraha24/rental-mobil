@@ -1,0 +1,36 @@
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.exe
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.xml
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.pdb
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\bin\Debug\RentalMobilVB.exe
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\bin\Debug\RentalMobilVB.pdb
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\bin\Debug\RentalMobilVB.xml
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormLog.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormMenuUtama.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.Formmobil.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormPelanggan.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormPeminjaman.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormPengembalian.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormAdmin.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.Resources.resources
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\VB\RentalMobilVB\RentalMobilVB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.exe
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.xml
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.pdb
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\bin\Debug\RentalMobilVB.exe
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\bin\Debug\RentalMobilVB.pdb
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\bin\Debug\RentalMobilVB.xml
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormLog.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormMenuUtama.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.Formmobil.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormPelanggan.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormPeminjaman.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormPengembalian.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormAdmin.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.Resources.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormLapDataMaster.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormCetakPinjam.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormCetakPengembalian.resources
+C:\Users\user\Documents\FINAL PROJECT\RentalMobilVB\RentalMobilVB\obj\x86\Debug\RentalMobilVB.FormAbout.resources

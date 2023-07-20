@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RentalMobilVB
+</name>
+</assembly>
+<members>
+<member name="P:RentalMobilVB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources._20200410_014447">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources._20200410_014615">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources._20200509_223012">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources._20200509_223046">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources._20200515_031115">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_Boss_132688">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_Cancel_132620">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_icon_27_trash_can_314759">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_Info_132643">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_Male_132787">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_OK_132710">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.iconfinder_Save_132607">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_calculator_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_car_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_car_rental_16__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_carpool_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_close_window_16__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_edit_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_input_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.icons8_print_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RentalMobilVB.My.Resources.Resources.rental_mobil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RentalMobilVB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
